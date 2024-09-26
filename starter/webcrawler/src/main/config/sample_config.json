@@ -1,5 +1,5 @@
 {
-  "startPages": ["https://www.udacity.com/"],
+  "startPages": ["https://courses.duytan.edu.vn/Modules/academicprogram/CourseResultSearch.aspx?keyword2=*&scope=1&hocky=87&t=1727359688749"],
   "ignoredUrls": ["https://blog.udacity.com/.*"],
   "ignoredWords": ["^.{1,3}$"],
   "parallelism": 4,
